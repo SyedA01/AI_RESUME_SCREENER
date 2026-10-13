@@ -1,0 +1,13 @@
+# Streamlit Frontend
+streamlit
+
+# Deep Learning
+tensorflow
+
+# Data Processing
+numpy
+pandas
+
+# Resume Document Parsing
+pypdf
+python-docx
